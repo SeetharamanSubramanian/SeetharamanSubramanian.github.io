@@ -17,7 +17,7 @@
       <pubDate>Sat, 22 Dec 2018 13:29:00 +0530</pubDate>
       
       <guid>https://seetharamansubramanian.github.io/blogs/gridcontrol/</guid>
-      <description>Introduction The project was undertaken as part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an outside central grid.
+      <description>Introduction The project was part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an external central grid.
 The constraints in the system were the variability in the solar input, the variability in the user demand and the presence of a diesel generator to augment the solar and external grid.</description>
     </item>
     
@@ -28,16 +28,6 @@ The constraints in the system were the variability in the solar input, the varia
       
       <guid>https://seetharamansubramanian.github.io/blogs/lumbar/</guid>
       <description>Introduction Many of the conventional lumbar support systems for car seats available are either very rudimentary or are electronically and pneumatically adjustable, complex systems. We aim to solve the problem of providing adequate lumbar support by designing a cheap and effective retrofittable lumbar support mechanism that caters to the need of a wide range of people. While making it simple to use and manufacture, we also want to meticulously design it to accommodate all the vital bio-mechanical factors into consideration.</description>
-    </item>
-    
-    <item>
-      <title>Efficiency of Electric Vehicles</title>
-      <link>https://seetharamansubramanian.github.io/blogs/efficiency/</link>
-      <pubDate>Sat, 15 Dec 2018 22:53:08 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/blogs/efficiency/</guid>
-      <description>Introduction This report was the culmination of a course on Automotive Aystems, wherein the various subsystems of an automobile were explored in detail. However, only a small portion of the modern hybrid and electric drivetrains were discussed. This led me to explore these powertrains further, and I hence chose my report in the domain of electric vehicles.
-Around this time, climate change and pollution were, and still are, topics in the focus of the general public.</description>
     </item>
     
     <item>
@@ -75,6 +65,16 @@ This project helped me gain valuable experience in leading a technical team and 
       
       <guid>https://seetharamansubramanian.github.io/blogs/bangdesign/</guid>
       <description>Introduction I was selected by Bang Design, an award winning design firm in Bangalore, to work on the Superthrower cricket bowling machine being developed by Freebowler LLC. Freebowler had created an initial prototype, a video of which can be found below, and wanted to make a market-ready product. I was selected as the product designer for a period of six months to work on this project, with a target of delivering a design that could be used for low-volume manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>Efficiency of Electric Vehicles</title>
+      <link>https://seetharamansubramanian.github.io/blogs/efficiency/</link>
+      <pubDate>Mon, 10 Dec 2018 22:53:08 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/efficiency/</guid>
+      <description>Introduction This report was the culmination of a course on Automotive Systems, wherein I explored the various subsystems of an automobile in detail. However, only a small portion of the modern hybrid and electric drivetrains was discussed, which led me to explore these powertrains further, and I hence chose my report in the domain of electric vehicles.
+Around this time, climate change and pollution were, and still, are topics in the focus of the general public.</description>
     </item>
     
   </channel>

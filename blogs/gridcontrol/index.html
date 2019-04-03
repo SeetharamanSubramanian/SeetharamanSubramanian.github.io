@@ -79,7 +79,7 @@
 
 <h2 id="introduction">Introduction</h2>
 
-<p>The project was undertaken as part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an outside central grid.</p>
+<p>The project was part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an external central grid.</p>
 
 <p>The constraints in the system were the variability in the solar input, the variability in the user demand and the presence of a diesel generator to augment the solar and external grid. The aim of the algorithm was to minimise the cost to the user. The principles of optimal control were applied to the problem, and three approaches were taken,</p>
 
@@ -111,9 +111,9 @@ A model of the micro-grid.</p>
 <p>The results of the simulation were:</p>
 
 <ul>
-<li>Since there is no associated cost with solar power, it is always being used. The remaining power is first supplied by diesel power and then by external power, as the unit cost for diesel power is less than that of external power.</li>
-<li>All the three methods give approx. same minimum cost for one day&rsquo;s operation</li>
-<li>The computation time for all the methods were high though the Collocation method gave the fastest results and the Euler method gave the slowest result. The optimization was done for only a day&rsquo;s data, as the computation for the month&rsquo;s data would have taken a very long time.</li>
+<li>Since there is no associated cost with solar power, it is always used when available and sufficient. The remaining energy is first supplied by diesel power and then by the external power source, as the unit cost for diesel power is less than that of the external supply.</li>
+<li>All three methods give approx. same minimum cost for one day&rsquo;s operation</li>
+<li>The computation time for all the processes was high, though the Collocation method gave the fastest results and the Euler method gave the slowest result. The optimisation was done for only a day’s data, as the computation for the month’s data would have taken a very long time.</li>
 </ul>
 
 <h3 id="extras">Extras</h3>
