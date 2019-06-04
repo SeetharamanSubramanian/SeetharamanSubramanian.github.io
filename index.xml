@@ -6,53 +6,15 @@
     <description>Recent content on Seetharaman Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Dec 2018 13:29:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2019 21:06:29 +0530</lastBuildDate>
     
 	<atom:link href="https://seetharamansubramanian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Optimal Control of Mircogrids</title>
-      <link>https://seetharamansubramanian.github.io/blogs/gridcontrol/</link>
-      <pubDate>Sat, 22 Dec 2018 13:29:00 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/blogs/gridcontrol/</guid>
-      <description>Introduction The project was part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an external central grid.
-The constraints in the system were the variability in the solar input, the variability in the user demand and the presence of a diesel generator to augment the solar and external grid.</description>
-    </item>
-    
-    <item>
-      <title>Lumbar Support for Drivers</title>
-      <link>https://seetharamansubramanian.github.io/blogs/lumbar/</link>
-      <pubDate>Sat, 15 Dec 2018 23:06:09 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/blogs/lumbar/</guid>
-      <description>Introduction Many of the conventional lumbar support systems for car seats available are either very rudimentary or are electronically and pneumatically adjustable, complex systems. We aim to solve the problem of providing adequate lumbar support by designing a cheap and effective retrofittable lumbar support mechanism that caters to the need of a wide range of people. While making it simple to use and manufacture, we also want to meticulously design it to accommodate all the vital bio-mechanical factors into consideration.</description>
-    </item>
-    
-    <item>
-      <title>Saarang Mobile Application</title>
-      <link>https://seetharamansubramanian.github.io/blogs/saarang/</link>
-      <pubDate>Sat, 15 Dec 2018 22:19:24 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/blogs/saarang/</guid>
-      <description>Introduction Saarang is South India&amp;rsquo;s largest student organized cultural festival, and I have been part of this from my first year of college. In my second year, I worked as a coordinator in the team, and then led the team workign on the mobile application for the android platdform for the year 2017.
-This project helped me gain valuable experience in leading a technical team and project, and also in organizing a long-term project involving multiple stakeholders from various backgrounds.</description>
-    </item>
-    
-    <item>
-      <title>GrabBin</title>
-      <link>https://seetharamansubramanian.github.io/blogs/grabbin/</link>
-      <pubDate>Sat, 15 Dec 2018 22:07:15 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/blogs/grabbin/</guid>
-      <description>Introduction In Indian metro cities, the amount of garbage generated is increasing in every neighbourhood and locality. This causes a major problem in areas where garbage collection happens through large community dustbins, namely the scattering of garbage around these bins due to overflow, human negligence and animal interference. This is an unsightly and unhygienic affair which affects the aesthetic appearance of the urban environment, and causes community problems like breeding of pathogens, disease vectors like mosquitoes, flies and rats, and gathering of stray animals.</description>
-    </item>
-    
-    <item>
-      <title>Master&#39;s thesis project</title>
+      <title>Design analysis of a Single-Effect Solar Still</title>
       <link>https://seetharamansubramanian.github.io/blogs/solarstill/</link>
-      <pubDate>Sat, 15 Dec 2018 21:06:29 +0530</pubDate>
+      <pubDate>Sat, 04 May 2019 21:06:29 +0530</pubDate>
       
       <guid>https://seetharamansubramanian.github.io/blogs/solarstill/</guid>
       <description>Introduction Potable water is highly scarce in many areas of rural India, and combined with lack of stable electricity, presents an almost insurmountable challenge for people to source drinking water. The traditional method of digging wells is not viable any more in the face of dropping water tables, and a suitable, green alternative is needed to supply the bare minimum of 5 l/day water required per person for survival.</description>
@@ -61,16 +23,54 @@ This project helped me gain valuable experience in leading a technical team and 
     <item>
       <title>Superthrower Bowling Machine</title>
       <link>https://seetharamansubramanian.github.io/blogs/bangdesign/</link>
-      <pubDate>Sat, 15 Dec 2018 21:04:22 +0530</pubDate>
+      <pubDate>Fri, 15 Jun 2018 21:04:22 +0530</pubDate>
       
       <guid>https://seetharamansubramanian.github.io/blogs/bangdesign/</guid>
       <description>Introduction I was selected by Bang Design, an award winning design firm in Bangalore, to work on the Superthrower cricket bowling machine being developed by Freebowler LLC. Freebowler had created an initial prototype, a video of which can be found below, and wanted to make a market-ready product. I was selected as the product designer for a period of six months to work on this project, with a target of delivering a design that could be used for low-volume manufacturing.</description>
     </item>
     
     <item>
+      <title>GrabBin</title>
+      <link>https://seetharamansubramanian.github.io/blogs/grabbin/</link>
+      <pubDate>Thu, 01 Jun 2017 22:07:15 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/grabbin/</guid>
+      <description>Introduction In Indian metro cities, the amount of garbage generated is increasing in every neighbourhood and locality. This causes a major problem in areas where garbage collection happens through large community dustbins, namely the scattering of garbage around these bins due to overflow, human negligence and animal interference. This is an unsightly and unhygienic affair which affects the aesthetic appearance of the urban environment, and causes community problems like breeding of pathogens, disease vectors like mosquitoes, flies and rats, and gathering of stray animals.</description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of Mircogrids</title>
+      <link>https://seetharamansubramanian.github.io/blogs/gridcontrol/</link>
+      <pubDate>Mon, 22 May 2017 13:29:00 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/gridcontrol/</guid>
+      <description>Introduction The project was part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an external central grid.
+The constraints in the system were the variability in the solar input, the variability in the user demand and the presence of a diesel generator to augment the solar and external grid.</description>
+    </item>
+    
+    <item>
+      <title>Saarang Mobile Application</title>
+      <link>https://seetharamansubramanian.github.io/blogs/saarang/</link>
+      <pubDate>Sat, 07 Jan 2017 22:19:24 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/saarang/</guid>
+      <description>Introduction Saarang is South India&amp;rsquo;s largest student organized cultural festival, and I have been part of this from my first year of college. In my second year, I worked as a coordinator in the team, and then led the team workign on the mobile application for the android platdform for the year 2017.
+This project helped me gain valuable experience in leading a technical team and project, and also in organizing a long-term project involving multiple stakeholders from various backgrounds.</description>
+    </item>
+    
+    <item>
+      <title>Lumbar Support for Drivers</title>
+      <link>https://seetharamansubramanian.github.io/blogs/lumbar/</link>
+      <pubDate>Wed, 16 Nov 2016 23:06:09 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/lumbar/</guid>
+      <description>Introduction Many of the conventional lumbar support systems for car seats available are either very rudimentary or are electronically and pneumatically adjustable, complex systems. We aim to solve the problem of providing adequate lumbar support by designing a cheap and effective retrofittable lumbar support mechanism that caters to the need of a wide range of people. While making it simple to use and manufacture, we also want to meticulously design it to accommodate all the vital bio-mechanical factors into consideration.</description>
+    </item>
+    
+    <item>
       <title>Efficiency of Electric Vehicles</title>
       <link>https://seetharamansubramanian.github.io/blogs/efficiency/</link>
-      <pubDate>Mon, 10 Dec 2018 22:53:08 +0530</pubDate>
+      <pubDate>Wed, 09 Nov 2016 22:53:08 +0530</pubDate>
       
       <guid>https://seetharamansubramanian.github.io/blogs/efficiency/</guid>
       <description>Introduction This report was the culmination of a course on Automotive Systems, wherein I explored the various subsystems of an automobile in detail. However, only a small portion of the modern hybrid and electric drivetrains was discussed, which led me to explore these powertrains further, and I hence chose my report in the domain of electric vehicles.
