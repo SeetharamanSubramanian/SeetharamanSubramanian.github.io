@@ -6,10 +6,20 @@
     <description>Recent content on Seetharaman Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2019 21:06:29 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2019 21:09:26 +0530</lastBuildDate>
     
 	<atom:link href="https://seetharamansubramanian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design of a Hot hatchback - Project RP</title>
+      <link>https://seetharamansubramanian.github.io/blogs/projectrp/</link>
+      <pubDate>Sat, 08 Jun 2019 21:09:26 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/blogs/projectrp/</guid>
+      <description>Introduction This project was undertaken as part of a course titled Design of Automotive Systems, and I was part of a team of five members consisting of Ashish Kumar, Atul Shreyas, Rohan Saphal, Shashwat Joshi and myself. The goal of this project was to design an automotive platform from scratch, from product conception to interior design.
+Our target market was the hot hatchback car segment, which was not a prominent segment in India.</description>
+    </item>
     
     <item>
       <title>Design analysis of a Single-Effect Solar Still</title>

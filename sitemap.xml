@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seetharamansubramanian.github.io/blogs/projectrp/</loc>
+    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seetharamansubramanian.github.io/</loc>
+    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://seetharamansubramanian.github.io/blogs/solarstill/</loc>
     <lastmod>2019-05-04T21:06:29+05:30</lastmod>
   </url>
@@ -44,12 +55,6 @@
   
   <url>
     <loc>https://seetharamansubramanian.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/</loc>
-    <lastmod>2019-05-04T21:06:29+05:30</lastmod>
     <priority>0</priority>
   </url>
   
