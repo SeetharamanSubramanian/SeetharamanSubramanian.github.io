@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Zilla+Slab:400,400i,600,600i');
+/*@font-face { 
+	font-family: 'BEYNO'; 
+	src: 
+		local('BEYNO'), 
+		url('fonts/BEYNO.otf'); 
+}*/
 
 .center-text {
 	text-align: center;
@@ -47,3 +53,7 @@ p, ul{
 body{
 	font-family: 'Raleway', sans-serif;
 }
+
+/*.logo {
+	font-family: 'BEYNO'
+}*/
