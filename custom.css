@@ -54,6 +54,11 @@ body{
 	font-family: 'Raleway', sans-serif;
 }
 
-/*.logo {
-	font-family: 'BEYNO'
-}*/
+#header .logo{
+	padding-left: 16px;
+}
+
+#logo {
+	width: 32px;
+	vertical-align: middle;
+}

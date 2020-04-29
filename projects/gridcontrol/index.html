@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<meta name="description" content="I am a global innovation designer studying my masters at the Royal College of Art in London. I aspire to become a product designer and aim to create products and experiences that are useful for everyone.">
 	<meta name="author" content="Seetharaman Subramanian">
-	<meta name="generator" content="Hugo 0.56.3" />
+	<meta name="generator" content="Hugo 0.69.2" />
 	<title>Optimal Control of Mircogrids &middot; Seetharaman Subramanian</title>
 	<!-- Stylesheets -->
 	
@@ -42,7 +42,7 @@
 
             <!-- Header -->
     <header id="header" class="alt">
-        <a href="https://seetharamansubramanian.github.io/" class="logo"><strong>Seetharaman</strong> <span></span></a>
+        <a href="https://seetharamansubramanian.github.io/" class="logo"><img id="logo" src="/img/Asset%202.svg" alt="" /></a>
         <nav>
             <a href="#menu">Menu</a>
         </nav>
@@ -78,24 +78,16 @@
                             
                                 <span class="image main"><img src="/img/projects/gridcontrol/main.jpg" alt="" /></span>
                             
-                            
-
-<h2 id="introduction">Introduction</h2>
-
+                            <h2 id="introduction">Introduction</h2>
 <p>The project was part of a course project in Optimal Control. The aim was to design a control algorithm to minimise the cost to the user who has a solar installation in a micro-grid that integrates with an external central grid.</p>
-
 <p>The constraints in the system were the variability in the solar input, the variability in the user demand and the presence of a diesel generator to augment the solar and external grid. The aim of the algorithm was to minimise the cost to the user. The principles of optimal control were applied to the problem, and three approaches were taken,</p>
-
 <ul>
 <li>Forward Euler Method</li>
 <li>Dynamic Programming Method</li>
 <li>Collocation Method</li>
 </ul>
-
-<p>I was part of a team of three consisting of <a href="https://in.linkedin.com/in/shashwat-joshi-ba5071ba" target="_blank">Shashwat Joshi</a>, <a href="https://in.linkedin.com/in/arun-venkateswaran" target="_blank">Arun Venkateswaran</a> and myself.</p>
-
+<p>I was part of a team of three consisting of <a href="https://in.linkedin.com/in/shashwat-joshi-ba5071ba">Shashwat Joshi</a>, <a href="https://in.linkedin.com/in/arun-venkateswaran">Arun Venkateswaran</a> and myself.</p>
 <h2 id="model">Model</h2>
-
 
 
 <figure class="project-img">
@@ -110,29 +102,19 @@
     
 </figure>
 
-
 <p>The model consists of a solar power supply <em>Ps</em>, external power supply <em>Pe</em>, diesel power <em>Pd</em>, battery input <em>Pi</em> and output <em>Po</em> and the load on the grid <em>Pl</em>.</p>
-
 <h2 id="my-contribution">My Contribution</h2>
-
 <p>The three approaches in the project were undertaken by the three of us. I chose the Dynamic Programming approach, which involved creating a Lagrangian scheme for the cost function, and then trying to predict the subsequent states based on the available data.</p>
-
-<p>Apart from this, I was also responsible for conducting the literature review for the project, in which I was able to read the literature of optimal control applied in the domain of micro-grid energy management, and was also able to understand the importance of theories outlined by <a href="http://liberzon.csl.illinois.edu/" target="_blank">Daniel Liberzon</a>.</p>
-
+<p>Apart from this, I was also responsible for conducting the literature review for the project, in which I was able to read the literature of optimal control applied in the domain of micro-grid energy management, and was also able to understand the importance of theories outlined by <a href="http://liberzon.csl.illinois.edu/">Daniel Liberzon</a>.</p>
 <p>I also compiled the final report in Latex on Overleaf, and also made the final presentation to a panel of professors and their graduate students.</p>
-
 <h2 id="the-outcome">The Outcome</h2>
-
 <p>The results of the simulation were:</p>
-
 <ul>
 <li>Since there is no associated cost with solar power, it is always used when available and sufficient. The remaining energy is first supplied by diesel power and then by the external power source, as the unit cost for diesel power is less than that of the external supply.</li>
 <li>All three methods give approx. same minimum cost for one day&rsquo;s operation</li>
 <li>The computation time for all the processes was high, though the Collocation method gave the fastest results and the Euler method gave the slowest result. The optimisation was done for only a day’s data, as the computation for the month’s data would have taken a very long time.</li>
 </ul>
-
 <h3 id="extras">Extras</h3>
-
 <ul>
 <li><a href="/res/gridcontrol/Poster.jpg">Presentation poster</a></li>
 <li><a href="/res/gridcontrol/FinalReport.pdf">Full project report</a></li>
