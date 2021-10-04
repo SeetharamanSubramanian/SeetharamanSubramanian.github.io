@@ -1,0 +1,21 @@
+/* your styles go here */
+.sidebar-image {
+  margin-bottom: 16px;
+}
+
+body, .btn {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: ibm-plex-mono, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  color: rgb(21, 19, 41);
+}
+
+.content-column-content p, .content-column-content li, .sidebar-p, .sidebar-menu li a, .box-masonry .box-masonry-text p, .form-control {
+  color: rgb(29, 52, 51);
+}
