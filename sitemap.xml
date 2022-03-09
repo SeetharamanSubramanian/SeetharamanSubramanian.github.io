@@ -1,73 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/efficiency/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/grabbin/</loc>
-    <lastmod>2017-06-01T22:07:15+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/lumbar/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/projectrp/</loc>
-    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/saarang/</loc>
-    <lastmod>2017-01-07T22:19:24+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/solarstill/</loc>
+    <loc>https://seetharamansubramanian.github.io/portfolio/boond/</loc>
     <lastmod>2019-05-04T21:06:29+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/portfolio/</loc>
-    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/</loc>
-    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seetharamansubramanian.github.io/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://seetharamansubramanian.github.io/portfolio/bangdesign/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/solarstill/</loc>
+    <lastmod>2019-05-04T21:06:29+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/projectrp/</loc>
+    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/lumbar/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/grabbin/</loc>
+    <lastmod>2017-06-01T22:07:15+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/efficiency/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/saarang/</loc>
+    <lastmod>2017-01-07T22:19:24+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/portfolio/</loc>
+    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/</loc>
+    <lastmod>2019-06-08T21:09:26+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url><url>
+    <loc>https://seetharamansubramanian.github.io/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url><url>
     <loc>https://seetharamansubramanian.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://seetharamansubramanian.github.io/tags/</loc>
   </url>
-  
 </urlset>

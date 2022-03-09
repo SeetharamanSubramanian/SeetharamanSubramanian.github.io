@@ -8,57 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2019 21:09:26 +0530</lastBuildDate><atom:link href="https://seetharamansubramanian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Efficiency of Electric Vehicles</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/efficiency/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Boond - Tracking and reducing water consumption</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/boond/</link>
+      <pubDate>Sat, 04 May 2019 21:06:29 +0530</pubDate>
       
-      <guid>https://seetharamansubramanian.github.io/portfolio/efficiency/</guid>
-      <description>&lt;p&gt;The energy efficiency of electric vehicles is analysed and compared against conventional ICE vehicles.&lt;/p&gt;</description>
+      <guid>https://seetharamansubramanian.github.io/portfolio/boond/</guid>
+      <description>&lt;p&gt;My Masters thesis project in GID on helping people reduce their water consumption while travelling.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>GrabBin</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/grabbin/</link>
-      <pubDate>Thu, 01 Jun 2017 22:07:15 +0530</pubDate>
+      <title>Superthrower bowling machine</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/bangdesign/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://seetharamansubramanian.github.io/portfolio/grabbin/</guid>
-      <description>&lt;p&gt;Designing a retrofittable attachment to community dustbins that cleans the vicinity of the dustbin&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Optimal Control of Mircogrids</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</guid>
-      <description>&lt;p&gt;This project explored various control strategies for operating energy microgrids.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lumbar support for drivers</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/lumbar/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/portfolio/lumbar/</guid>
-      <description>&lt;p&gt;Prolonged driving is one of the main causes for lower back pain in men, this is due to improper posture and poorly designed seats.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Design of a Hot hatchback - Project RP</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/projectrp/</link>
-      <pubDate>Sat, 08 Jun 2019 21:09:26 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/portfolio/projectrp/</guid>
-      <description>&lt;p&gt;Outline the specifications and design of a hot hatchback targeted at the Indian automobile market.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Saarang Mobile Application</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/saarang/</link>
-      <pubDate>Sat, 07 Jan 2017 22:19:24 +0530</pubDate>
-      
-      <guid>https://seetharamansubramanian.github.io/portfolio/saarang/</guid>
-      <description>&lt;p&gt;The development of the Android application for the cultural festival of the Indian Institute of Technology Madras.&lt;/p&gt;</description>
+      <guid>https://seetharamansubramanian.github.io/portfolio/bangdesign/</guid>
+      <description>&lt;p&gt;I was selected by &lt;a href=&#34;https://bangid.com/&#34; target=&#34;_blank&#34;&gt;Bang Design&lt;/a&gt;
+, an award winning design firm in Bangalore, to work on the Superthrower cricket bowling machine being developed by &lt;a href=&#34;https://freebowler.com/&#34; target=&#34;_blank&#34;&gt;Freebowler LLC&lt;/a&gt;
+.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,14 +37,57 @@
     </item>
     
     <item>
-      <title>Superthrower bowling machine</title>
-      <link>https://seetharamansubramanian.github.io/portfolio/bangdesign/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>Design of a Hot hatchback - Project RP</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/projectrp/</link>
+      <pubDate>Sat, 08 Jun 2019 21:09:26 +0530</pubDate>
       
-      <guid>https://seetharamansubramanian.github.io/portfolio/bangdesign/</guid>
-      <description>&lt;p&gt;I was selected by &lt;a href=&#34;https://bangid.com/&#34; target=&#34;_blank&#34;&gt;Bang Design&lt;/a&gt;
-, an award winning design firm in Bangalore, to work on the Superthrower cricket bowling machine being developed by &lt;a href=&#34;https://freebowler.com/&#34; target=&#34;_blank&#34;&gt;Freebowler LLC&lt;/a&gt;
-.&lt;/p&gt;</description>
+      <guid>https://seetharamansubramanian.github.io/portfolio/projectrp/</guid>
+      <description>&lt;p&gt;Outline the specifications and design of a hot hatchback targeted at the Indian automobile market.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lumbar support for drivers</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/lumbar/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/portfolio/lumbar/</guid>
+      <description>&lt;p&gt;Prolonged driving is one of the main causes for lower back pain in men, this is due to improper posture and poorly designed seats.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GrabBin</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/grabbin/</link>
+      <pubDate>Thu, 01 Jun 2017 22:07:15 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/portfolio/grabbin/</guid>
+      <description>&lt;p&gt;Designing a retrofittable attachment to community dustbins that cleans the vicinity of the dustbin&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Efficiency of Electric Vehicles</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/efficiency/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/portfolio/efficiency/</guid>
+      <description>&lt;p&gt;The energy efficiency of electric vehicles is analysed and compared against conventional ICE vehicles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimal Control of Mircogrids</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/portfolio/gridcontrol/</guid>
+      <description>&lt;p&gt;This project explored various control strategies for operating energy microgrids.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Saarang Mobile Application</title>
+      <link>https://seetharamansubramanian.github.io/portfolio/saarang/</link>
+      <pubDate>Sat, 07 Jan 2017 22:19:24 +0530</pubDate>
+      
+      <guid>https://seetharamansubramanian.github.io/portfolio/saarang/</guid>
+      <description>&lt;p&gt;The development of the Android application for the cultural festival of the Indian Institute of Technology Madras.&lt;/p&gt;</description>
     </item>
     
   </channel>
