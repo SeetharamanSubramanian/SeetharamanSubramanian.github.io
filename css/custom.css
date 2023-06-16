@@ -19,7 +19,3 @@ h1, h2, h3, h4, h5, h6 {
 .content-column-content p, .content-column-content li, .sidebar-p, .sidebar-menu li a, .box-masonry .box-masonry-text p, .form-control {
   color: rgb(29, 52, 51);
 }
-
-h1.sidebar-heading{
-  font-size: xx-large;
-}
